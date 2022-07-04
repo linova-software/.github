@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![It's us!](profile/org-opener.png)
 
 We use Github to push our Open Source projects.
 Are you interested to join us?
